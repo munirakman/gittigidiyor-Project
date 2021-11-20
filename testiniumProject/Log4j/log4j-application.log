@@ -1,0 +1,13 @@
+2021-11-20 15:36:52 INFO  log4j:10 - Test is Starting...
+2021-11-20 15:36:57 INFO  log4j:20 - Site acilir
+2021-11-20 15:37:00 INFO  log4j:20 - Bilgisayar kelimesi girilir
+2021-11-20 15:37:02 INFO  log4j:20 - arama sonuclari sayfasinda 2.sayfa acilir
+2021-11-20 15:37:02 INFO  log4j:20 - 2.sayfanın acildigi kontrol edilir
+2021-11-20 15:37:07 INFO  log4j:20 - sonuclara gore bir urun secilir
+2021-11-20 15:37:07 INFO  log4j:20 - secilen urun bilgisi ve tutar bilgisi txt dosyasina yazilir
+2021-11-20 15:37:09 INFO  log4j:20 - secilen urun sepete eklenir
+2021-11-20 15:37:15 INFO  log4j:20 - fiyatlar karsilastirilir
+2021-11-20 15:37:15 INFO  log4j:20 - adet arttırılarak 2 adet urun oldugu dogrulanir
+2021-11-20 15:37:21 INFO  log4j:20 - urunler silinir
+2021-11-20 15:37:21 INFO  log4j:20 - sepetin bos oldugu test edilir
+2021-11-20 15:37:21 INFO  log4j:20 - sayfa kapanir.

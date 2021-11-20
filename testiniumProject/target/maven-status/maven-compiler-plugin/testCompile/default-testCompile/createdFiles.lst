@@ -1,0 +1,6 @@
+utilities\TestResultLogger.class
+utilities\Driver.class
+pages\GittigidiyorPage.class
+gittiGidiyor\TestClass.class
+utilities\ConfigReader.class
+utilities\Log.class
